@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/liangzy/test_jenkins#readme",
   "devDependencies": {
+    "express": "^4.14.0",
     "koa": "^1.2.4"
   }
 }
