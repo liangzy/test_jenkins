@@ -1,0 +1,19 @@
+{
+  "name": "test_jenkins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liangzy/test_jenkins.git"
+  },
+  "author": "liangzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liangzy/test_jenkins/issues"
+  },
+  "homepage": "https://github.com/liangzy/test_jenkins#readme"
+}
