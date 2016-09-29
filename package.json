@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/liangzy/test_jenkins/issues"
   },
-  "homepage": "https://github.com/liangzy/test_jenkins#readme"
+  "homepage": "https://github.com/liangzy/test_jenkins#readme",
+  "devDependencies": {
+    "koa": "^1.2.4"
+  }
 }
